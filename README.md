@@ -1,4 +1,4 @@
-(https://github.com/jasurmavlonov02/jasurmavlonov02/assets/108140941/6b450284-a135-4b60-bca5-056cb55f2961)<h1 align="center">Hi 👋, I'm Jasur Mavlonov</h1>
+<h1 align="center">Hi 👋, I'm Jasur Mavlonov</h1>
 <h3 align="center">I am a passionate web developer with a strong focus on Python backend development. With 1 years of experience in the industry, I have worked on various projects and gained expertise in building robust and scalable web applications. My technical skills and dedication to delivering high-quality solutions enable me to contribute effectively to any development team.</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
