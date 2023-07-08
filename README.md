@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasur Mavlonov</h1>
 <h3 align="center">I am a passionate web developer with a strong focus on Python backend development. With 1 years of experience in the industry, I have worked on various projects and gained expertise in building robust and scalable web applications. My technical skills and dedication to delivering high-quality solutions enable me to contribute effectively to any development team.</h3>
 
-<img align="right" alt="coding" width="300" height="200" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif
+<img align="right" alt="coding" width="300" height="200" src="[https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasurmavlonov02&label=Profile%20views&color=0e75b6&style=flat" alt="jasurmavlonov02" /> </p>
