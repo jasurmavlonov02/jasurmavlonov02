@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="300" height="200" src="!https://github.com/jasurmavlonov02/jasurmavlonov02/assets/108140941/3168644a-07ba-44eb-a1f0-3c6b787dc33f
 ">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=jasurmavlonov02&label=Profile%20views&color=0e75b6&style=flat](https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif)" alt="jasurmavlonov02" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasurmavlonov02&label=Profile%20views&color=0e75b6&style=flat" alt="jasurmavlonov02" /> </p>
 
 - 🔭 I’m currently working on [Microservice](https://dash.tm.uz/)
 
